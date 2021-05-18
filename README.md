@@ -4,8 +4,8 @@
 
 ### 电脑配置
 
-- **主板：**华硕X530UN
-- **处理器：** Intel Core i5-8250U @ 1.6GHz（KabyLake-R）
+- **主板**华硕X530UN
+- **处理器** Intel Core i5-8250U @ 1.6GHz（KabyLake-R）
 - 形象的：
 	- Intel UHD620（1536MB动态内存（与系统共享））
 	- NVIDIA GeForce MX150 2GB
